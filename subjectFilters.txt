@@ -16,6 +16,8 @@ b(blonde|brunette|redhead) amateurb
 
 \bC\'ialis\b
 
+\bcock\b
+
 \bcocks?\b
 
 \bcreampie\b
@@ -27,6 +29,10 @@ bcum(shot|swap)?b
 \bdick\b
 
 \bfucking movies\b
+
+f(\$|@|#|%|\*)?ck
+
+fuck*
 
 \bimpotence\b
 
